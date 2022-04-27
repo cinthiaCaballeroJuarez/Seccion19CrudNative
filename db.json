@@ -1,0 +1,67 @@
+{
+  "clientes": [
+    {
+      "nombre": "Urla",
+      "telefono": "1234",
+      "empresa": "Zero",
+      "correo": "casa@afsa.com",
+      "id": 1
+    },
+    {
+      "nombre": "Alex",
+      "telefono": "8961699433",
+      "empresa": "Zero",
+      "correo": "cris@correo.com",
+      "id": 2
+    },
+    {
+      "nombre": "Pedro",
+      "telefono": "234234",
+      "correo": "23423423",
+      "empresa": "Zerfo",
+      "id": 3
+    },
+    {
+      "nombre": "Carmen",
+      "telefono": "1234",
+      "correo": "can you send",
+      "empresa": "zerfo",
+      "id": 4
+    },
+    {
+      "nombre": "Franco",
+      "telefono": "123141",
+      "empresa": "Costac",
+      "correo": "fran@correo.com",
+      "id": 5
+    },
+    {
+      "nombre": "Paquito",
+      "telefono": "12312",
+      "empresa": "Zero",
+      "correo": "can@correo.com",
+      "id": 6
+    },
+    {
+      "nombre": "adsasd",
+      "telefono": "12341324",
+      "empresa": "asdasd",
+      "correo": "34fsdf",
+      "id": 7
+    },
+    {
+      "nombre": "Urla11",
+      "telefono": "123411",
+      "empresa": "Zero11",
+      "correo": "casa@afsa11.com",
+      "id": 8
+    },
+    {
+      "nombre": "Uaaaaa",
+      "telefono": "111111111",
+      "empresa": "Zero11",
+      "correo": "casa@afsa11.com",
+      "id": 9
+    }
+  ]
+}
